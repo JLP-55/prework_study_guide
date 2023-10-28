@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-Notes on each topic to be covered in the bootcamp have been compiled. 
+Notes on each topic to be covered further in the bootcamp have been compiled. 
 Each section, HTML, JavaScript, CSS and Git has its own sub-section, and in addition, opening the DevTools consol will allow you to see the list of topics to study.
 
 ## Credits
