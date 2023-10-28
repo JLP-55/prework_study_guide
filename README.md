@@ -12,7 +12,7 @@ N/A
 ## Usage
 
 Notes on each topic to be covered in the bootcamp have been compiled. 
-Each section, HTML, JavaScript, CSS and Git has its own section, and in addition, opening the DevTools consol will allow you to see JavaScript running.
+Each section, HTML, JavaScript, CSS and Git has its own sub-section, and in addition, opening the DevTools consol will allow you to see the list of topics to study.
 
 ## Credits
 
